@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 Mastodon account: [@odomontois@types.pl](https://types.pl/web/@odomontois)
+<a rel="me" href="https://types.pl/@odomontois">Mastodon</a>
 
 <!--
 **Odomontois/Odomontois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
